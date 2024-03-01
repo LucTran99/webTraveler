@@ -1,0 +1,697 @@
+body {
+  height: 100000px;
+}
+.phan1 .phan1-contact-email {
+  display: flex;
+  /* justify-content: center; */
+  align-items: center;
+}
+
+.phan1 .phan1-contact-sdt {
+  display: flex;
+  align-items: center;
+}
+
+.thanhdoc {
+  width: 1px;
+  height: 20px;
+  background: #ccc;
+  margin-left: 10px;
+}
+
+.phan1 .phan1-contact-sdt-email {
+  display: flex;
+  align-items: center;
+  margin-left: 300px;
+}
+
+.phan1 .phan1-contact {
+  display: flex;
+  align-items: center;
+  /* justify-content: center; */
+}
+
+.list-icon {
+  margin-left: 500px;
+}
+
+.info {
+  margin-left: 10px;
+}
+
+.fa-phone {
+  margin-left: 10px;
+}
+
+.phone {
+  margin-left: 10px;
+}
+
+.ds-icon {
+  width: 200px;
+  /* background-color: aqua; */
+  display: flex;
+  justify-content: space-between;
+}
+
+.ds-icon .fa-facebook,
+.fa-instagram,
+.fa-linkedin,
+.fa-twitter,
+.fa-youtube {
+  color: rgba(0, 128, 0, 0.674);
+}
+
+.phan1-Traveler {
+  position: absolute;
+  top: 75px;
+  /* z-index: 1; */
+  /* margin-top: -550px; */
+  /* margin-top: 100px; */
+
+  margin-left: 295px;
+  width: 1000px;
+  height: 70px;
+  background-color: white;
+  box-shadow: 2px -2px 6px 0px rgba(0, 0, 0, 0.05);
+}
+
+.menus {
+  display: flex;
+  list-style-type: none;
+  /* text-align: center; */
+  justify-content: space-between;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+
+a {
+  display: flex;
+  text-align: center;
+  text-decoration: none;
+  color: black;
+}
+/* li{
+    display: flex;
+    justify-content: space-between;
+} */
+.Traveler {
+  display: flex;
+  align-items: center;
+}
+
+.list-menu {
+  width: 600px;
+
+  /* background-color: yellow; */
+  margin-left: 250px;
+}
+
+span {
+  color: rgba(0, 128, 0, 0.604);
+}
+
+.title {
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  margin-left: 30px;
+}
+
+.home {
+  color: rgba(0, 128, 0, 0.704);
+}
+
+.anhphongcanh {
+  margin-top: 50px;
+  /* margin-top: -50px; */
+  width: 100%;
+  height: 900px;
+  object-fit: cover;
+}
+
+.discover {
+  position: relative;
+  /* z-index: 1; */
+}
+
+.content {
+  color: white;
+  position: absolute;
+  top: 25rem;
+  left: 40rem;
+  text-align: center;
+}
+
+.text {
+  font-size: 3rem;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+
+.Places {
+  margin-top: -40px;
+}
+
+.Amazing {
+  margin-top: -10px;
+}
+
+.button {
+  cursor: pointer;
+  margin-top: -30px;
+  width: 130px;
+  height: 40px;
+  background-color: rgb(11, 239, 11);
+  margin-left: 120px;
+}
+
+.book {
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  width: 100px;
+  height: 30px;
+  /* background-color: aqua; */
+  padding-top: 10px;
+  margin-left: 16px;
+}
+
+.dangKy {
+  position: absolute;
+  top: 960px;
+  /* margin-top: -50px; */
+  /* display: flex; */
+  width: 950px;
+  height: 100px;
+  /* background-color: aqua; */
+  background-color: white;
+  box-shadow: 1px 4px 5px 0px rgba(0, 0, 0, 0.25);
+  margin-left: 330px;
+}
+
+.input {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  /* margin-top: 30px; */
+  width: 900px;
+  height: 90px;
+  margin-left: 10px;
+}
+
+.input1 {
+  margin-left: 30px;
+  height: 35px;
+  width: 150px;
+}
+
+.button1 {
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  width: 150px;
+  height: 40px;
+  background-color: rgb(11, 239, 11);
+  margin-left: 25px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: aliceblue;
+}
+
+.anh-khoi1 {
+  width: 450px;
+  height: 640px;
+  object-fit: cover;
+}
+
+.phan2 {
+  position: relative;
+  width: 950px;
+  height: 950px;
+  /* background-color: yellow; */
+  margin-top: 200px;
+  margin-left: 330px;
+}
+
+.khoi2 {
+  position: absolute;
+  top: 50px;
+
+  width: 580px;
+  height: 530px;
+  /* background-color: aqua; */
+  background-color: white;
+  box-shadow: 1px 0.5px 5px 0px rgba(0, 0, 0, 0.15);
+  margin-left: 370px;
+}
+
+.h1-title {
+  width: 70%;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+.khoi2-img {
+  width: 220px;
+}
+
+.khoi2-anh1 {
+  height: 147px;
+}
+
+.khoi2-anh2 {
+  margin-left: 30px;
+}
+
+.khoi2-anh {
+  margin-top: 20px;
+}
+
+.button2 {
+  margin-top: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: white;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  width: 100px;
+  height: 40px;
+  background: rgba(23, 195, 23, 0.745);
+}
+
+.khoi2-content {
+  margin-left: 35px;
+}
+
+.khoi2-content .khoi2-title {
+  padding-top: 20px;
+  font-family: "Courier New", Courier, monospace;
+  color: rgba(0, 128, 0, 0.499);
+}
+
+.item {
+  width: 70px;
+  height: 70px;
+  background-color: rgba(0, 128, 0, 0.745);
+}
+
+.content1-p {
+  width: 210px;
+  height: 60px;
+  /* text-align: ; */
+  /* background-color: aqua; */
+  margin-top: -18px;
+  font-size: 14px;
+}
+.content1 {
+  margin-left: 15px;
+}
+.fa-credit-card {
+  display: flex;
+  font-size: 30px;
+  color: white;
+  justify-content: center;
+  padding-top: 20px;
+}
+
+.list-item {
+  display: flex;
+  align-items: center;
+  width: 450px;
+  height: 100px;
+  /* background-color: teal; */
+}
+
+.fa-globe {
+  display: flex;
+  font-size: 30px;
+  color: white;
+  justify-content: center;
+  padding-top: 20px;
+}
+
+.phan2 .phancuoi {
+  margin-top: 25px;
+  display: flex;
+  width: 950px;
+  height: 300px;
+  /* background-color: yellow; */
+}
+
+.VietNamCities {
+  width: 300px;
+  height: 200px;
+}
+
+.box {
+  position: absolute;
+  top: 15px;
+  left: 10px;
+  width: 280px;
+  height: 170px;
+  background-color: #ccc;
+  opacity: 15%;
+  text-align: center;
+}
+
+.a-United {
+  color: white;
+  font-size: 20px;
+}
+
+.text11 {
+  position: relative;
+  font-size: 20px;
+}
+.span {
+  /* background-color: yellow; */
+  color: white;
+  position: absolute;
+  top: 60px;
+  left: -5px;
+  width: 100px;
+  font-size: 15px;
+}
+
+.a {
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  text-decoration: none;
+  position: absolute;
+  top: -160px;
+  left: 100px;
+  /* margin-top: -200px; */
+  /* text-align: center; */
+  /* margin-left: 150px; */
+}
+
+.item1 {
+  position: relative;
+}
+
+.list {
+  display: flex;
+  gap: 30px;
+}
+
+.list-1 {
+  margin-top: 50px;
+  display: flex;
+  gap: 30px;
+}
+
+.list-1 .box-HaGiang,
+.box-camau,
+.box-HaiPhong,
+.box-TpHCM,
+.box-HaNoi,
+.box-DaNang {
+  opacity: 30%;
+  border: 2px solid white;
+}
+
+.text-destination {
+  color: rgba(9, 135, 9, 0.562);
+  font-size: 20px;
+  letter-spacing: 6px;
+}
+
+.title {
+  text-align: center;
+}
+
+.list {
+  margin-left: 330px;
+}
+.list-1 {
+  margin-left: 330px;
+}
+
+.destination {
+  margin-top: -50px;
+}
+
+/* Services */
+
+.box-route {
+  width: 50px;
+  height: 50px;
+  border: 2px solid rgba(9, 135, 9, 0.562);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-left: 110px;
+
+  margin-top: 10px;
+}
+
+.phancuoi-content {
+  margin-top: -19px;
+  width: 240px;
+  height: 120px;
+  /* background-color: aqua; */
+  margin-left: 20px;
+}
+
+.phanCuoi-Khoi1 {
+  padding-top: 20px;
+  width: 280px;
+  height: 230px;
+  background-color: white;
+  box-shadow: 2px 3px 7px -3px rgba(0, 0, 0, 0.46);
+  text-align: center;
+}
+
+.phanCuoi {
+  display: flex;
+  gap: 55px;
+}
+
+.phanDau {
+  text-align: center;
+}
+
+.services {
+  margin-top: 200px;
+  margin-left: 330px;
+  width: 950px;
+}
+
+.title-services {
+  color: rgba(0, 128, 0, 0.666);
+  letter-spacing: 5px;
+}
+
+h5 {
+  font-size: 16px;
+}
+
+.fa-ticket,
+.fa-route,
+.fa-hotel {
+  font-size: 25px;
+  color: rgba(9, 135, 9, 0.562);
+}
+
+/* Packages */
+
+.anh-du-lich {
+  width: 280px;
+}
+
+.location .vitri,
+.thoigian,
+.person {
+  display: flex;
+  align-items: center;
+}
+
+.location {
+  display: flex;
+  margin-left: 16px;
+}
+
+.thoigian,
+.person {
+  margin-left: 29px;
+}
+
+.fa-location-dot,
+.fa-person-walking-luggage,
+.fa-person,
+.fa-star {
+  color: rgba(0, 128, 0, 0.619);
+}
+
+.Discorer {
+  width: 230px;
+  margin-left: 16px;
+}
+
+.danhgia .ngoisao {
+  display: flex;
+  align-items: center;
+}
+
+.danhgia {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+
+.khoi {
+  transition: 0.5s;
+  width: 280px;
+  height: 380px;
+  background-color: white;
+  box-shadow: 2px 3px 7px -3px rgba(0, 0, 0, 0.46);
+}
+
+.thanhNgang {
+  width: 240px;
+
+  border: 1px solid #ccc;
+  margin-left: 16px;
+}
+
+.number {
+  margin-left: 10px;
+}
+
+.ngoisao {
+  margin-left: -25px;
+}
+
+.giatien {
+  font-weight: 800;
+  font-size: 20px;
+}
+
+.tour-list {
+  display: flex;
+  gap: 55px;
+  width: 950px;
+  height: 500px;
+  /* background-color: aqua; */
+  margin-left: 330px;
+}
+
+.title1 {
+  text-align: center;
+}
+
+.packages {
+  margin-top: 200px;
+}
+
+.text-destination {
+  color: rgba(0, 128, 0, 0.666);
+  letter-spacing: 5px;
+}
+.perfect {
+  margin-top: -15px;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}
+
+.packages .khoi:hover {
+  transform: translatey(-10px);
+  cursor: pointer;
+}
+
+/* Mega-Offer */
+
+.natural {
+  width: 100%;
+  height: 500px;
+  object-fit: cover;
+  image-rendering: crisp-edges;
+}
+
+.mega-offer-sign-up__right {
+  margin-top: -50px;
+  margin-left: 80px;
+  width: 270px;
+  height: 299px;
+  /* background-color: aqua; */
+  background-color: white;
+  box-shadow: 2px 3px 7px -3px rgba(0, 0, 0, 0.46);
+}
+
+.input5 {
+  margin-left: 20px;
+  margin-top: 10px;
+  font-size: 17px;
+  height: 28px;
+}
+.form {
+  margin-top: 25px;
+  width: 250px;
+  height: 150px;
+  /* background-color: yellow; */
+}
+
+.mega-offer-sign-up__right-title {
+  width: 100%;
+  height: 50px;
+  background-color: rgb(11, 183, 11);
+  /* text-align: center; */
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: white;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+
+.button-sign-up-now {
+  width: 220px;
+  height: 40px;
+  background-color: rgb(11, 183, 11);
+  margin-left: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: white;
+  font-size: 12px;
+}
+
+.noiDung {
+  width: 550px;
+  color: white;
+}
+
+.check {
+  display: flex;
+  align-items: center;
+  color: white;
+  margin-top: -19px;
+}
+
+.mega-offer-sign-up {
+  display: flex;
+  width: 950px;
+  /* background-color: aqua; */
+  margin-top: -350px;
+  margin-left: 330px;
+}
+
+.mega-offer-sign-up__left {
+  margin-top: -50px;
+}
+
+.mega {
+  /* width: 150px; */
+  /* background-color: aqua; */
+  height: 20px;
+  color: rgb(6, 198, 6);
+  letter-spacing: 2px;
+  font-size: 10px;
+}
+
+.tile {
+  margin-top: -20px;
+  font-size: 30px;
+  color: white;
+}
+
+.span-tile {
+  color: rgb(6, 198, 6);
+}
+
+.fa-check {
+  color: rgb(6, 198, 6);
+}
+
+.check-content {
+  margin-left: 20px;
+}
